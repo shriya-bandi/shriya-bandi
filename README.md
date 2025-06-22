@@ -39,15 +39,15 @@
 - AI Art, Notion blogs
 
 ---
-
 ### 💼 My Tech Journey
 
-- 💼 **Cyber Security Engineer** @ Qualcomm – 2 years (incl. internship)
-  ↳
+- 💼 **Cyber Security Engineer @ Qualcomm – 2 years (incl. internship)**  
+  ↳ Tackling threats with precision  
+  ↳ Built custom playbooks to automate SOC operations  
+
 - 🚀 **Startup Intern @ Silk Route Advisors**  
   ↳ Explored AI Art tools, wrote Notion blogs, designed with Figma, and played with GenAI  
-  ↳ learned by doing *everything* (perks of startup life!)
-
+  ↳ Learned by doing *everything* (perks of startup life!)
 ---
 
 ### 🎨 Fun Facts
