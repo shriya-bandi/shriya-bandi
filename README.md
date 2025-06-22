@@ -21,10 +21,6 @@
 
 ### 🧰 Tech & Tools I Groove With
 
-<div align="right">
-  <img src="https://media.giphy.com/media/1n3mu0ZjFzG3C/giphy.gif" width="160" />
-</div>
-
 #### 🔐 Cyber & Automation Tools
 - Splunk, Phantom and Tines (SOAR), Microsoft Defender for Endpoint  
 - Azure Security Center, VirusTotal, DNS Twist, Wayback Machine 🌐 (still grateful)
