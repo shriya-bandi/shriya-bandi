@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Art tech gif" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Art tech gif" />
 </p>
 
 ---
