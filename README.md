@@ -11,7 +11,7 @@
 
 ### 👩‍💻 Who Am I?
 
-- 🛡️ **Cyber Security Engineer** @ Qualcomm, Hyderabad  
+- 🛡️ **Cyber Security Engineer, Associate** @ Qualcomm, Hyderabad  
 - 🎓 BTech in Computer Science with a specialization in **IoT, Blockchain, and Cyber Security**
 - ✨ I live at the intersection of **tech & creativity** — from automating daily chaos to chasing cyber threats and building beautiful tools
 - 🔁 Once stumbled into cybersecurity… now I *run with it*!  
