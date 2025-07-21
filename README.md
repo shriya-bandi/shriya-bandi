@@ -7,10 +7,6 @@
   <i>A creative techie on a mission to paint the digital world with colors and code 🎨💻</i>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Art tech gif" />
-</p>
-
 ---
 
 ### 👩‍💻 Who Am I?
